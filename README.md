@@ -25,7 +25,7 @@
 
 # ⚙️ Architecture
 
-`Domain Driven Development Architecture`
+`Domain-Driven Design Architecture`
 
 # 🧑🏻‍💻 Team
 
