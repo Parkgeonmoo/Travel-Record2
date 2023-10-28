@@ -59,15 +59,6 @@
 2. Docker Engine이  3305Port 요청을 받는다.
 3. 설정에 따라 Docker Engine이 3305Port 요청을 MySQL의 포트인 3306Port로 전달해줌으로서 동작하게 된다.
 
-
-
-그래서 위의 그림과 같은 관계를 가지고 동작합니다.
-
-1. SpringBoot 에서 3305Port로 DB관련 요청을 보냅니다.
-2. Docker Engine이  3305Port 요청을 받습니다.
-3. 설정에 딸라 Docker Engine이 3305Port 요청을 MySQL의 포트인 3306Port로 전달해줌으로서 동작하게 됩니다.
-
-
 ## DB 연결 방법
 
 ### Docker 설치
