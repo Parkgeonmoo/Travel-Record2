@@ -47,3 +47,56 @@
 - Docker 이미지에 MySQL 서버를 올림으로써 Docker에 대한 사용법을 좀 더 이해하게 되었다.
 
 # 📷 Screenshot
+### 1. 여행 전체 조회
+* **요청**
+<br>![GET all Trip Request](https://github.com/Group5-toy/KDT_Y_BE_Toy_Project2/assets/81563920/2273f0c4-83dc-4a3c-83bb-64409a3aa9ff)
+* **응답**
+<br>![GET all Trip Response 01 png](https://github.com/Group5-toy/KDT_Y_BE_Toy_Project2/assets/81563920/9a7abdde-1f68-4f76-955e-2567f4c4270c)
+<br>![GET all Trip Response 02 png png](https://github.com/Group5-toy/KDT_Y_BE_Toy_Project2/assets/81563920/121ab98b-1042-4191-8947-39189b5f1783)
+
+### 2. 여행 단건 조회
+* **요청**
+<br>![GET Trip Request](https://github.com/Group5-toy/KDT_Y_BE_Toy_Project2/assets/81563920/6f18da69-98c8-43e5-a470-06042f6182d3)
+* **응답**
+<br>![GET Trip Response](https://github.com/Group5-toy/KDT_Y_BE_Toy_Project2/assets/81563920/0b712cc0-07cc-46a0-a095-2995922463f2)
+
+### 3. 여행 등록
+* **요청**
+<br>![POST Trip Request](https://github.com/Group5-toy/KDT_Y_BE_Toy_Project2/assets/81563920/34cf1c24-85c4-49fb-9df8-a0c858569e10)
+* **응답**
+<br>![POST Trip Response](https://github.com/Group5-toy/KDT_Y_BE_Toy_Project2/assets/81563920/1431a9e4-117b-46a8-a6da-f7f8d192c409)
+
+### 4. 여행 정보 일부 수정
+* **요청**
+<br>![PATCH Trip Request](https://github.com/Group5-toy/KDT_Y_BE_Toy_Project2/assets/81563920/1add29f8-5f9d-41b6-a47c-b5ab82a6cd62)
+* **응답**
+<br>![PATCH Trip Response](https://github.com/Group5-toy/KDT_Y_BE_Toy_Project2/assets/81563920/cec007d0-b4f9-4ef4-92bc-aa4bc3b2e412)
+
+### 5. 여행 정보 전체 수정
+* **요청**
+<br>![PUT Trip Request](https://github.com/Group5-toy/KDT_Y_BE_Toy_Project2/assets/81563920/8955707c-bcf3-43b1-b296-fc60729beea5)
+* **응답**
+<br>![PUT Trip Response](https://github.com/Group5-toy/KDT_Y_BE_Toy_Project2/assets/81563920/eb93a4ad-55a1-479d-9eda-866fd0b167af)
+
+### 6. 여정 등록
+* **요청**
+<br>![POST Journey Request](https://github.com/Group5-toy/KDT_Y_BE_Toy_Project2/assets/81563920/6198243d-ad5a-4bbc-9894-4a758f9a476f)
+* **응답**
+<br>![POST Journey Response](https://github.com/Group5-toy/KDT_Y_BE_Toy_Project2/assets/81563920/f990c558-a9fa-4a34-b8c9-52acf4e910b1)
+
+### 7. 여정 정보 수정
+### 7-1. 이동정보
+* **요청**
+<br>![PUT MoveJourney Request](https://github.com/Group5-toy/KDT_Y_BE_Toy_Project2/assets/81563920/76535a9d-7654-42f1-aa11-12b1a6c794eb)
+* **응답**
+<br>![PUT MoveJourney Response](https://github.com/Group5-toy/KDT_Y_BE_Toy_Project2/assets/81563920/1f075665-ed1e-4ce2-911c-c48dc101a891)
+### 7-2. 숙박정보
+* **요청**
+<br>![PUT LodgmentJourney Request](https://github.com/Group5-toy/KDT_Y_BE_Toy_Project2/assets/81563920/32866547-6e13-4af0-8724-0851d359a712)
+* **응답**
+<br>![PUT LodgmentJourney Response](https://github.com/Group5-toy/KDT_Y_BE_Toy_Project2/assets/81563920/85037782-482c-4ebc-93f9-7937565b5324)
+### 7-3. 방문정보
+* **요청**
+<br>![PUT VisitJourney Request](https://github.com/Group5-toy/KDT_Y_BE_Toy_Project2/assets/81563920/a8e441fc-56ca-40a8-a086-b3bac63077c2)
+* **응답**
+<br>![PUT VisitJourney Response](https://github.com/Group5-toy/KDT_Y_BE_Toy_Project2/assets/81563920/679b3eca-64db-4e9b-9c70-78a124380e0f)
