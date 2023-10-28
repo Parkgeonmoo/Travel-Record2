@@ -79,7 +79,7 @@ Docker Desktop 설치
 
 ### 실행
 
-Docker 설치를 마쳤으면 이제 Docker Conmtainer을 실행시킬 수 있다.
+Docker 설치를 마쳤으면 이제 Docker Container을 실행시킬 수 있다.
 
 <img width="179" alt="스크린샷 2023-10-28 151421" src="https://github.com/Group5-toy/KDT_Y_BE_Toy_Project2/assets/97028441/6e236e2f-870f-448e-aee5-42190a926fba">
 
