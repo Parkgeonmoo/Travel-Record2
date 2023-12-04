@@ -23,9 +23,6 @@
 
 `Spring Boot`, `Github` ,`Git` `MySQL` ,`Docker`
 
-# ⚙️ Architecture
-
-`Domain-Driven Design Architecture`
 
 # 🧑🏻‍💻 Team
 
